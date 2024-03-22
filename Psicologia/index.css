@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+
+b {
+    text-decoration: none;
+    color: red;
+}
+c {
+    text-decoration: none;
+    color: hsl(31, 90%, 49%);
+}
